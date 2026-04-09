@@ -1,1 +1,2 @@
-The character is: A
+8.600000
+7.200000
