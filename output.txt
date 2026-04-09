@@ -1,1 +1,1 @@
-My number is 15 and my letter is D
+The character is: A
