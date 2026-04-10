@@ -1,1 +1,2 @@
-You cannot buy a new cap.
+x is greater than 13
+y is also greater than 20
