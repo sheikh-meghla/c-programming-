@@ -7,9 +7,6 @@ int main()
     {
         printf("ruti khabo");
     }
-    else
-    {
-        printf("khichu khabo na");
-    }
+    
 
 }
