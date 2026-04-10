@@ -1,4 +1,1 @@
-Normal Integer: 10
-Long Integer: 1410065408
-Short Integer: 5
-Unsigned Integer: 20
+8.600000
