@@ -1,1 +1,3 @@
-Tuesday
+2
+1
+Countdown finished!
