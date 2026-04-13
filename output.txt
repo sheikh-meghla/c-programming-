@@ -1,0 +1,2 @@
+Type a number and press enter: 
+Your number is: 5
