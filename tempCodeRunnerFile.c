@@ -1,1 +1,1 @@
-%f
+#include <stdio.h>
