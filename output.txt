@@ -1,2 +1,2 @@
-Type a number and press enter: 
-Your number is: 5
+Enter your first name and press enter: 
+Hello Sheikh
