@@ -1,1 +1,2 @@
-6
+Length is: 6
+Size is: 7
