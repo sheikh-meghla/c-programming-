@@ -5,5 +5,6 @@ int main(){
     printf("%d\n",age);
     printf("%p\n",&p);
     printf("%p\n",p);
+    printf("%d\n",*p);
     return 0;
 }
