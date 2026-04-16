@@ -1,3 +1,4 @@
-hello Liza
-hello Rafi
-hello Nurani Tasnim
+The sum of 5 + 3 is: 8
+The sub of 5 - 3 is: 2
+The mul of 5 * 3 is: 15
+The div of 5 / 3 is: 1
