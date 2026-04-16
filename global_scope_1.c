@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int x = 32;
+
+void myFunction() {
+  printf("%d\n", --x);
+}
+
+int main() {
+  myFunction();
+
+  printf("%d\n", x);
+  return 0;
+}
