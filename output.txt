@@ -1,2 +1,1 @@
-Brand: Toyota
-Year: 2011
+Size of union: 52 bytes
