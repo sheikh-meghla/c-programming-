@@ -1,3 +1,2 @@
-Car Name: Toyota
-Year: 2020
-Owner Name: Alice
+Brand: Toyota
+Year: 2011
