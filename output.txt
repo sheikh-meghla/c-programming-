@@ -1,1 +1,4 @@
-Size of struct: 8 bytes
+4
+1
+8
+4
