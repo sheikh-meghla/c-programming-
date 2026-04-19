@@ -1,14 +1,16 @@
 #include <stdio.h>
 
-void count() {
-  static int Num = 3; 
+void x() {
+  static int Num = 2; 
   Num++;
   printf("num = %d\n", Num);
 }
 
 int main() {
-  count();
-  count();
-  count();
+
+  x();
+  x();
+  x();
+
   return 0;
 }
