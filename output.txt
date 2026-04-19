@@ -1,1 +1,1 @@
-value of PI: 3.1416
+square of 4: 25
