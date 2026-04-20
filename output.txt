@@ -1,2 +1,1 @@
-Correct code.
-The door is now open.
+the number is zero
