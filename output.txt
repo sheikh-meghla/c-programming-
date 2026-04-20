@@ -1,3 +1,1 @@
-Number of items: 3
-Cost per item: 9.99 $
-Total cost = 29.97 $
+User's percentage is 33.3
