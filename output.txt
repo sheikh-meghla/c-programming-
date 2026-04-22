@@ -1,1 +1,2 @@
-The word 'Meghla' has 6 characters in it.
+Type your name and press enter: 
+Hello liza
