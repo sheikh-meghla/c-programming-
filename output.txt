@@ -1,2 +1,2 @@
-Type your name and press enter: 
-Hello liza
+Fahrenheit: 98.80
+Convert Fahrenheit to Celsius: 37.11
