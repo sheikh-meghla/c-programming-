@@ -1,1 +1,1 @@
-Factorial = 5040
+Enter operator (+, -, *, /): Enter two numbers: Result = 13.00
