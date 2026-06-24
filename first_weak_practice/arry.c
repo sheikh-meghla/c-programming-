@@ -7,7 +7,7 @@ int main(){
     scanf("%d",&n);
     int a[n+1];
 
-    printf("Enter the array values : \n")
+    
     for (int i = 0; i < n; i++)
     {
         scanf("%d",&a[i]);
