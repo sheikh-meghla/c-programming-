@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<stdbool.h>
 
 int main() {
     int n;
@@ -10,16 +11,25 @@ int main() {
         scanf("%lld", &a[i]);
     }
 
-    int palindrome = 1;
+    bool is_palindrome = true;
 
-    for (int i = 0; i < n / 2; i++) {
-        if (a[i] != a[n - 1 - i]) {
-            palindrome = 0;
-            break;
+    // logic
+
+    int i = 0;
+    int j = n - 1;
+
+    while (i<j)
+    {
+        if (a[i]!= a[j])
+        {
+            is_palindrome = false;
         }
+        i++;
+        j--;
+        
     }
-
-    if (palindrome)
+      
+    if (is_palindrome == true)
         printf("YES\n");
     else
         printf("NO\n");

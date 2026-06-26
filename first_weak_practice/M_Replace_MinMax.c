@@ -22,7 +22,7 @@ int main()
             min = i;
         }
 
-        if(a[i] > a[max])
+        else if(a[i] > a[max])
         {
             max = i;
         }
