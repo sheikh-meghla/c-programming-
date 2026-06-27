@@ -10,33 +10,33 @@ int main(){
         scanf("%d",&a[i]);
     }
 
-    int cnt0 = 0,cnt1 = 0,cnt2 = 0,cnt3 = 0,cnt4 = 0;
+    int fre[5]={0};
     
     for (int i = 0; i < n; i++)
     {
         if (a[i]==0)
         {
-            cnt0++;
+            fre[0]++;
         }
         else if (a[i]==1)
         {
-            cnt1++;
+            fre[1]++;
         }
         else if (a[i]==2)
         {
-            cnt2++;
+            fre[2]++;
         }
         else if (a[i]==3)
         {
-            cnt3++;
+            fre[3]++;
         }
         else if (a[i]==4)
         {
-            cnt4++;
+            fre[4]++;
         }
         
     }
-    printf("%d %d %d %d %d \n",cnt0,cnt1,cnt2,cnt3,cnt4);
+    printf("%d %d %d %d %d \n",fre[0],fre[1],fre[2],fre[3],fre[4]);
     
 
     return 0;
