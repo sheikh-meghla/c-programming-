@@ -5,7 +5,8 @@ int main(){
     int ans = ceil(3.1);
     int ans1 = floor(3.1);
     int ans2 = round(3.5);
+    int ans3 = sqrt(36);
 
-    printf("%d %d %d",ans,ans1,ans2);
+    printf("%d %d %d %d",ans,ans1,ans2,ans3);
     return 0;
 }
