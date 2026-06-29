@@ -7,7 +7,8 @@ int main(){
     int ans2 = round(3.5);
     int ans3 = sqrt(36);
     int ans4 = pow(4,3);
+    int ans5 = abs(-2);
 
-    printf("%d %d %d %d %d",ans,ans1,ans2,ans3,ans4);
+    printf("%d\n%d\n%d\n%d\n%d\n%d\n",ans,ans1,ans2,ans3,ans4,ans5);
     return 0;
 }
