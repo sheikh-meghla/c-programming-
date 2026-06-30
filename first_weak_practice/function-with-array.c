@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-    void func(int a[], int n){
+    void fun(int a[], int n){
     for(int i=0;i<n;i++)
     {
     printf("%d ",a[i]); 
@@ -15,5 +15,5 @@
     {
     scanf("%d",&a[i]); 
     }
-    func(a,n);
+    fun(a,n);
     }
