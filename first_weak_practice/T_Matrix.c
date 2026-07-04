@@ -26,8 +26,7 @@ int main(){
             {
                 primary_sum += a[i][j];
             }
-                            
-                
+                                           
         }           
             
     }

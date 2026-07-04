@@ -7,11 +7,9 @@ int fun(int n){
 
     }
 
-
     fun(n-1);
     printf("%d\n",n);
-
-    
+   
 }
 int main(){
     int n;
