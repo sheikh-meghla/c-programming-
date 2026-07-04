@@ -21,11 +21,7 @@ int main(){
             {
                 if (i == j)
                 {
-                    if (a[i][j] == 0)
-                    {
-                        is_diagonal = false;
-                        
-                    }
+                    
                 }
                 else if (a[i][j] != 0)
                 {
