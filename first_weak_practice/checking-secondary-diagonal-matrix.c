@@ -19,13 +19,13 @@ int main(){
         {
             for (int j = 0; j < c; j++)
             {
-                if (i == j)
+                if (i + j == r-1 )
                 {
-                    if (a[i][j] == 0)
+                   if (a[i][j] == 0)
                     {
                         is_diagonal = false;
                         
-                    }
+                    } 
                 }
                 else if (a[i][j] != 0)
                 {
@@ -38,13 +38,13 @@ int main(){
         }        
         
     }
-
-
             if (is_diagonal == true)
             {
-                printf("This is a primary diagonal matrix");
-            }else{
-                printf("This is a not primary diagonal matrix");
+                printf("This is a secondary diagonal matrix");
+            }
+            else{
+                printf("This is not a secondary diagonal matrix");
+                
             }
     
 }
