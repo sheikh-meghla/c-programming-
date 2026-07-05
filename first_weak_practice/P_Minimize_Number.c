@@ -1,10 +1,7 @@
 #include<stdio.h>
 #include<stdbool.h>
 
-
 int main(){
-
-
     int n;
     scanf("%d",&n);
 
@@ -15,10 +12,7 @@ int main(){
         scanf("%d",&a[i]);
     }
 
-
-
     int count = 0;
-
 
     while(true){
 
@@ -28,10 +22,8 @@ int main(){
         {
                 if(a[i]%2 != 0) {
                     flag = false;
-                }
-               
+                }               
         }
-
 
         if(flag == false){
            break;
@@ -42,14 +34,10 @@ int main(){
         }
 
         count++;
-            
-        
+                    
     }
 
         printf("%d\n",count);
-
-
-
     
     }
   
