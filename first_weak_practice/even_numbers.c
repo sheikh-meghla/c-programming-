@@ -1,21 +1,13 @@
-#include<stdio.h>
-int main(){
+#include <stdio.h>
 
-    int n;
-    scanf("%d",&n);
-    int a[n];
-    for (int i = 0; i < n; i++)
+int main()
+{
+    int i;
+
+    for (i = 2; i <= 100; i += 2)
     {
-        scanf("%d",&a[i]);
-        if (a[i]%2==0)
-        {
-            printf("%d ",a[i]);
-        }
-        
-        
+        printf("%d\n", i);
     }
-    
-    
 
     return 0;
 }
